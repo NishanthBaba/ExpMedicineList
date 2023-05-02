@@ -1,0 +1,59 @@
+
+body {
+  background-color: white;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 20px auto;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #0099CC;
+  color: white;
+}
+
+#search-input {
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+#search-btn {
+  padding: 5px 10px;
+  background-color: #0099CC;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#input-form {
+  margin: 20px auto;
+  text-align: center;
+}
+
+#name-input, #age-input, #dist-input {
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin: 0 10px;
+}
+
+#export-btn {
+  margin: 20px auto;
+  padding: 5px 10px;
+  background-color: #0099CC;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
